@@ -1,5 +1,16 @@
 {
+	"MyLocationPage": [
+		"studio-stream-id-MyLocationPage__en__27ca8192515adf1f306e9d1c1ef07501.json"
+	],
+	"newLoc": [
+		"studio-stream-id-newLoc__en__27ca8192515adf1f306e9d1c1ef07501.json"
+	],
+	"prod2": [
+		"studio-stream-id-prod2__en__27ca8192515adf1f306e9d1c1ef07501.json"
+	],
 	"product": [
-		"skis__en__408b6cfef8e6aafd9275e0cdc36f7c44.json"
+		"studio-stream-id-product__en__efcf47345c59f4c0e66758b47c5bf047.json",
+		"studio-stream-id-product__en__0cccb54ec65c98ba9bc46c6db0793409.json",
+		"studio-stream-id-product__en__0d9364188c02a0f3af19d1976c7581d6.json"
 	]
 }
