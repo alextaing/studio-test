@@ -1,1 +1,0 @@
-{"version":3,"file":"LocalDataMappingManager.d.ts","sourceRoot":"","sources":["../src/LocalDataMappingManager.ts"],"names":[],"mappings":"AAIA,MAAM,CAAC,OAAO,OAAO,uBAAuB;IAC1C,OAAO,CAAC,gBAAgB,CAA2B;IACnD,WAAW,EAAE,MAAM,CAAC;gBAER,aAAa,EAAE,MAAM;IAKjC,UAAU,iCAER;IAEF,cAAc;IAId,OAAO,CAAC,oBAAoB;CAS7B"}

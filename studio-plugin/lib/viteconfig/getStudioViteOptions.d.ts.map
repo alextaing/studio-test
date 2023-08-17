@@ -1,1 +1,0 @@
-{"version":3,"file":"getStudioViteOptions.d.ts","sourceRoot":"","sources":["../../src/viteconfig/getStudioViteOptions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAiB,UAAU,EAAE,MAAM,MAAM,CAAC;AAC5D,OAAO,EAAE,0BAA0B,EAAE,MAAM,UAAU,CAAC;AAEtD,MAAM,CAAC,OAAO,UAAU,oBAAoB,CAC1C,IAAI,EAAE,SAAS,EACf,YAAY,EAAE,0BAA0B,EACxC,qBAAqB,EAAE,MAAM,GAC5B,UAAU,CAgBZ"}

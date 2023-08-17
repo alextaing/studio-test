@@ -1,1 +1,0 @@
-{"version":3,"file":"NpmLookup.d.ts","sourceRoot":"","sources":["../../../src/parsers/helpers/NpmLookup.ts"],"names":[],"mappings":"AAKA;;GAEG;AACH,MAAM,CAAC,OAAO,OAAO,SAAS;IAI1B,OAAO,CAAC,eAAe;IACvB,OAAO,CAAC,iBAAiB;IAJ3B,OAAO,CAAC,gBAAgB,CAAS;gBAGvB,eAAe,EAAE,MAAM,EACvB,iBAAiB,EAAE,MAAM;IAMnC,OAAO,CAAC,sBAAsB;IA+B9B,mBAAmB,IAAI,MAAM;CAG9B"}
