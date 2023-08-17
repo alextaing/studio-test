@@ -7,14 +7,6 @@
       "entityPageSet": {
         "plugin": {}
       }
-    },
-    {
-      "name": "newLoc",
-      "streamId": "studio-stream-id-newLoc",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
     }
   ],
   "streams": [
@@ -35,24 +27,6 @@
         "name",
         "address",
         "isoRegionCode"
-      ]
-    },
-    {
-      "$id": "studio-stream-id-newLoc",
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "filter": {
-        "entityTypes": [
-          "location"
-        ]
-      },
-      "fields": [
-        "name",
-        "slug"
       ]
     }
   ]
