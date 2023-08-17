@@ -16,7 +16,7 @@ export const config: TemplateConfig = {
 export const getPath: GetPath<TemplateProps> = ({
   document,
 }: TemplateProps) => {
-  return `${document.slug}`;
+  return `${document.name}`;
 };
 export default function MyLocationPage({ document }: TemplateProps) {
   return (
