@@ -1,0 +1,27 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "newLoc",
+		"streamId": "studio-stream-id-newLoc",
+		"templateType": "JS"
+	},
+	"businessId": 3350634,
+	"id": "03037",
+	"key": "0:newLoc:knowledgeGraph:18715000:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Mansfield",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "03037",
+	"uid": 18715000
+}

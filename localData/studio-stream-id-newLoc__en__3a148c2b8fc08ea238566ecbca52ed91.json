@@ -1,0 +1,27 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "newLoc",
+		"streamId": "studio-stream-id-newLoc",
+		"templateType": "JS"
+	},
+	"businessId": 3350634,
+	"id": "1659277149695818196",
+	"key": "0:newLoc:knowledgeGraph:18715001:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Office Space 2",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "office/1659277149695818196",
+	"uid": 18715001
+}

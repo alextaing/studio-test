@@ -1,0 +1,27 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "newLoc",
+		"streamId": "studio-stream-id-newLoc",
+		"templateType": "JS"
+	},
+	"businessId": 3350634,
+	"id": "05699",
+	"key": "0:newLoc:knowledgeGraph:18715006:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Needles",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "studio/05699",
+	"uid": 18715006
+}

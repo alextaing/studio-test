@@ -15,22 +15,6 @@
       "entityPageSet": {
         "plugin": {}
       }
-    },
-    {
-      "name": "prod2",
-      "streamId": "studio-stream-id-prod2",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
-    },
-    {
-      "name": "product",
-      "streamId": "skis",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
     }
   ],
   "streams": [
@@ -68,42 +52,6 @@
       },
       "fields": [
         "name",
-        "slug"
-      ]
-    },
-    {
-      "$id": "studio-stream-id-prod2",
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "filter": {
-        "entityTypes": [
-          "location"
-        ]
-      },
-      "fields": []
-    },
-    {
-      "$id": "skis",
-      "filter": {
-        "entityTypes": [
-          "ce_product"
-        ]
-      },
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "fields": [
-        "name",
-        "c_price",
-        "description",
-        "photoGallery",
         "slug"
       ]
     }
