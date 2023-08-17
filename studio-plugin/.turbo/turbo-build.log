@@ -1,0 +1,4 @@
+
+> @yext/studio-plugin@0.17.0 build
+> rimraf lib && tsc -p tsconfig.json
+
