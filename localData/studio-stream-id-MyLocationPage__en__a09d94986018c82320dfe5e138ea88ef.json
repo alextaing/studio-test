@@ -1,0 +1,36 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Grosse Pointe Farms",
+		"countryCode": "US",
+		"line1": "107 Kercheval Avenue",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Michigan",
+		"postalCode": "48236",
+		"region": "MI"
+	},
+	"businessId": 3350634,
+	"id": "04368",
+	"isoRegionCode": "MI",
+	"key": "0:MyLocationPage:knowledgeGraph:18715007:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Grosse Pointe Farms",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715007
+}

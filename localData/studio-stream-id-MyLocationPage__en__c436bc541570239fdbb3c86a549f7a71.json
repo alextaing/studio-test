@@ -1,0 +1,37 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "McLean",
+		"countryCode": "US",
+		"line1": "7900 Westpark Drive",
+		"line2": "Suite T200",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Virginia",
+		"postalCode": "22102",
+		"region": "VA"
+	},
+	"businessId": 3350634,
+	"id": "2917513710699998040",
+	"isoRegionCode": "VA",
+	"key": "0:MyLocationPage:knowledgeGraph:18714998:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Office Space",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18714998
+}

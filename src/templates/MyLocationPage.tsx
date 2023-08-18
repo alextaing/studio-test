@@ -13,8 +13,10 @@ export const config: TemplateConfig = {
     fields: ["name", "address", "isoRegionCode"],
   },
 };
-export const getPath: GetPath<TemplateProps> = () => {
-  return `location123`;
+export const getPath: GetPath<TemplateProps> = ({
+  document,
+}: TemplateProps) => {
+  return `${document.id}`;
 };
 
 export default function MyLocationPage({ document }: TemplateProps) {
