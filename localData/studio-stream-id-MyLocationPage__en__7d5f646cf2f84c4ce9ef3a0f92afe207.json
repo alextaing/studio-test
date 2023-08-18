@@ -1,0 +1,36 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Magalia",
+		"countryCode": "US",
+		"line1": "14115 Lakeridge Circle",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "California",
+		"postalCode": "95954",
+		"region": "CA"
+	},
+	"businessId": 3350634,
+	"id": "06548",
+	"isoRegionCode": "CA",
+	"key": "0:MyLocationPage:knowledgeGraph:18715002:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Magalia",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715002
+}

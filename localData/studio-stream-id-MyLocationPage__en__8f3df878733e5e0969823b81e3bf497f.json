@@ -1,0 +1,36 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Bainbridge Island",
+		"countryCode": "US",
+		"line1": "301 High School Road NE",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Washington",
+		"postalCode": "98110",
+		"region": "WA"
+	},
+	"businessId": 3350634,
+	"id": "05215",
+	"isoRegionCode": "WA",
+	"key": "0:MyLocationPage:knowledgeGraph:18715009:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Bainbridge Island",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715009
+}

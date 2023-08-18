@@ -1,0 +1,37 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Chicago",
+		"countryCode": "US",
+		"line1": "500 West Madison St.",
+		"line2": "Suite 2810",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Illinois",
+		"postalCode": "60661",
+		"region": "IL"
+	},
+	"businessId": 3350634,
+	"id": "1659277149695818196",
+	"isoRegionCode": "IL",
+	"key": "0:MyLocationPage:knowledgeGraph:18715001:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Office Space 2",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715001
+}

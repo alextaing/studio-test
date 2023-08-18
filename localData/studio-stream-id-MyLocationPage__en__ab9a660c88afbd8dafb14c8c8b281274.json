@@ -1,0 +1,36 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Needles",
+		"countryCode": "US",
+		"line1": "1020 East Broadway Street",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "California",
+		"postalCode": "92363",
+		"region": "CA"
+	},
+	"businessId": 3350634,
+	"id": "05699",
+	"isoRegionCode": "CA",
+	"key": "0:MyLocationPage:knowledgeGraph:18715006:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Needles",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715006
+}

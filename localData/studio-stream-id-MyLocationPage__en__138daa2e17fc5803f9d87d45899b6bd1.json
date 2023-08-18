@@ -1,0 +1,37 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "London",
+		"countryCode": "GB",
+		"line1": "48 Warwick St.",
+		"line2": "Office 410",
+		"localizedCountryName": "United Kingdom",
+		"localizedRegionName": "City of London",
+		"postalCode": "W1B 5AW",
+		"region": "Gt Lon"
+	},
+	"businessId": 3350634,
+	"id": "7941089580646240971",
+	"isoRegionCode": "LND",
+	"key": "0:MyLocationPage:knowledgeGraph:18714999:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Office Space",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18714999
+}

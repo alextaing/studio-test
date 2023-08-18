@@ -1,0 +1,37 @@
+{
+	"__": {
+		"entityPageSet": {
+			"plugin": {}
+		},
+		"name": "MyLocationPage",
+		"streamId": "studio-stream-id-MyLocationPage",
+		"templateType": "JS"
+	},
+	"address": {
+		"city": "Battle Creek",
+		"countryCode": "US",
+		"line1": "30 East Columbia Ave",
+		"line2": "Ste A",
+		"localizedCountryName": "United States",
+		"localizedRegionName": "Michigan",
+		"postalCode": "49015",
+		"region": "MI"
+	},
+	"businessId": 3350634,
+	"id": "04369",
+	"isoRegionCode": "MI",
+	"key": "0:MyLocationPage:knowledgeGraph:18715008:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "location",
+			"uid": 0
+		},
+		"locale": "en"
+	},
+	"name": "Battle Creek",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"uid": 18715008
+}
