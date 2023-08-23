@@ -4,33 +4,7 @@
       "name": "MyLocationPage",
       "streamId": "studio-stream-id-MyLocationPage",
       "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
-    },
-    {
-      "name": "newLoc",
-      "streamId": "studio-stream-id-newLoc",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
-    },
-    {
-      "name": "prod2",
-      "streamId": "studio-stream-id-prod2",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
-    },
-    {
-      "name": "product",
-      "streamId": "skis",
-      "templateType": "JS",
-      "entityPageSet": {
-        "plugin": {}
-      }
+      "entityPageSet": {}
     }
   ],
   "streams": [
@@ -51,60 +25,6 @@
         "name",
         "address",
         "isoRegionCode"
-      ]
-    },
-    {
-      "$id": "studio-stream-id-newLoc",
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "filter": {
-        "entityTypes": [
-          "location"
-        ]
-      },
-      "fields": [
-        "name",
-        "slug"
-      ]
-    },
-    {
-      "$id": "studio-stream-id-prod2",
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "filter": {
-        "entityTypes": [
-          "location"
-        ]
-      },
-      "fields": []
-    },
-    {
-      "$id": "skis",
-      "filter": {
-        "entityTypes": [
-          "ce_product"
-        ]
-      },
-      "localization": {
-        "locales": [
-          "en"
-        ],
-        "primary": false
-      },
-      "fields": [
-        "name",
-        "c_price",
-        "description",
-        "photoGallery",
-        "slug"
       ]
     }
   ]
